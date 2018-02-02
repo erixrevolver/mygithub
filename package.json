@@ -1,0 +1,23 @@
+{
+  "name": "mygithub",
+  "version": "1.0.0",
+  "description": "service test github server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erixrevolver/mygithub.git"
+  },
+  "keywords": [
+    "test",
+    "github"
+  ],
+  "author": "Eric E. ML",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erixrevolver/mygithub/issues"
+  },
+  "homepage": "https://github.com/erixrevolver/mygithub#readme"
+}
